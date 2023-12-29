@@ -1,0 +1,24 @@
+nama: Kiara Azzahra
+nim: 202110370311426
+Program Studi: Informatika
+
+Kiara Azzahra
+202110370311426
+Informatika
+
+nama: Annisa Artanti Widyadhana
+nim: 202110370311217
+Program Studi: Teknik informatika
+
+Annisa Artanti Widyadhana
+202110370311217
+Teknik informatika
+
+nama: Na Jaemin
+nim: 202110370311425
+Program Studi: Sistem Informasi
+
+Na Jaemin
+202110370311425
+Sistem Informasi
+
